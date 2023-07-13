@@ -27,7 +27,8 @@ The Insurely Digital Insurance Sales frontend replica project aims to replicate 
 1. Clone this repository to your local machine using the following command:
 
    ```shell
-   git clone https://github.com/your-username/insurely-frontend-replica.git
+   git clone https://github.com/Mohammad-Imran01/Insurely-Digital-Insurance-Sales---Frontend-Replica.git
+   
 Navigate to the project directory:
 
 shell
@@ -42,8 +43,3 @@ Technologies
 HTML5
 CSS3
 JavaScript
-Contributing
-Contributions to the Insurely Digital Insurance Sales frontend replica are not currently being accepted. This project is intended to showcase my skills and learning progress in frontend web development.
-
-License
-This project is licensed under the MIT License.
