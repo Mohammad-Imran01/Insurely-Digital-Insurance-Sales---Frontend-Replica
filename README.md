@@ -1,6 +1,6 @@
 # Insurely Digital Insurance Sales - Frontend Replica
 
-![Insurely](insurely-screenshot.png)
+![Insurely](insurely-screenshot.png.png)
 
 Welcome to the Insurely Digital Insurance Sales frontend replica repository! This repository contains the code for a replica of the frontend part of the Insurely Digital Insurance Sales page.
 
