@@ -16,7 +16,7 @@ Welcome to the Insurely Digital Insurance Sales frontend replica repository! Thi
 
 ## Demo
 
-To see a live demo of the Insurely Digital Insurance Sales frontend replica, click [here](https://your-demo-link.com).
+To see a live demo of the Insurely Digital Insurance Sales frontend replica, click [here](https://insurely-replica.netlify.app).
 
 ## Description
 
